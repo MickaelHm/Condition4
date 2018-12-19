@@ -17,7 +17,7 @@ namespace Condition4
             Console.WriteLine("Entrez votre mot de passe");
             string userPassword = Console.ReadLine();
 
-            if(login == userLogin)
+            if(login == userLogin && password == userPassword)
             {
                 Console.WriteLine("Bienvenue à la Manu le Havre.");
             }
