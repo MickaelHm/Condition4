@@ -1,0 +1,7 @@
+C:\Users\Moi\source\repos\Condition\Condition4\Condition4\obj\Debug\Condition4.csprojAssemblyReference.cache
+C:\Users\Moi\source\repos\Condition\Condition4\Condition4\obj\Debug\Condition4.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Condition\Condition4\Condition4\bin\Debug\Condition4.exe.config
+C:\Users\Moi\source\repos\Condition\Condition4\Condition4\bin\Debug\Condition4.exe
+C:\Users\Moi\source\repos\Condition\Condition4\Condition4\bin\Debug\Condition4.pdb
+C:\Users\Moi\source\repos\Condition\Condition4\Condition4\obj\Debug\Condition4.exe
+C:\Users\Moi\source\repos\Condition\Condition4\Condition4\obj\Debug\Condition4.pdb
